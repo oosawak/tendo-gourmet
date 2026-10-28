@@ -1,0 +1,16 @@
+{
+  "sites": {
+    "tendo": {
+      "name": "Tendo Food Map",
+      "short_name": "Tendo Food",
+      "kind_label": "Food magazine",
+      "hero_title": "Explore the flavors of Tendo,\n one pin on the map at a time.",
+      "description": "A food guide to Tendo, the town of shogi and hot springs, with every eatery pinned on a map.",
+      "subtitle": "Stories about the tastes of Tendo, collected on a map",
+      "hero_note": "A map and short trips",
+      "about": "A food guide to eateries in Tendo, Yamagata, based on social posts by visitors, presented together with a map. Cover images are AI-created watercolor illustrations; see the embedded original posts for actual photos of the food.",
+      "source_hash": "2a3ab0b370a53ce4f91f8dc523f6cdfdc8513996cb355e111b5e18979daf153e"
+    }
+  },
+  "posts": {}
+}

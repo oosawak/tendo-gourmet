@@ -100,6 +100,6 @@
 @media(max-width:600px){.gourmetmap{height:330px}}
 
 /* Map style selector (Tendo) */
-.leaflet-control-layers{background:rgba(255,255,255,.95);border:1px solid var(--line);border-radius:12px;box-shadow:0 8px 20px rgba(34,48,42,.18);padding:9px 11px;color:#243129}
-.leaflet-control-layers-list{font-size:12px;line-height:1.9}
-.leaflet-control-layers label{white-space:nowrap;cursor:pointer}
+.mapstylebar{display:flex;gap:2px;background:rgba(255,255,255,.92);padding:3px;border-radius:999px;box-shadow:0 4px 14px rgba(34,48,42,.22)}
+.mapstylebar button{border:0;background:transparent;color:#43534a;font-size:11px;line-height:1;padding:6px 8px;border-radius:999px;cursor:pointer;font-family:inherit;white-space:nowrap}
+.mapstylebar button.active{background:var(--accent);color:#fff;font-weight:700}

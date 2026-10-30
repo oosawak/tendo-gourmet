@@ -103,3 +103,5 @@
 .mapstylebar{display:flex;gap:2px;background:rgba(255,255,255,.92);padding:3px;border-radius:999px;box-shadow:0 4px 14px rgba(34,48,42,.22)}
 .mapstylebar button{border:0;background:transparent;color:#43534a;font-size:11px;line-height:1;padding:6px 8px;border-radius:999px;cursor:pointer;font-family:inherit;white-space:nowrap}
 .mapstylebar button.active{background:var(--accent);color:#fff;font-weight:700}
+/* Tendo top: the photo list follows the map — cancel the hero-overlap pull-up so it never covers the map or its attribution */
+.mapsection+.feature-wrap{margin-top:20px}

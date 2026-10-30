@@ -100,7 +100,7 @@
   function gourmetMapSection(entries){
     const pins=entries.filter(x=>typeof x.lat==='number'&&typeof x.lng==='number');
     if(!pins.length)return '';
-    return `<section class="section container mapsection"><div class="sectiontitle"><div><span class="kicker">TENDO GOURMET MAP</span><h2>${h(tr('mapHeading'))}</h2></div><p class="caption">${pins.length} ${h(tr('items'))}</p></div><p class="maplead">${h(tr('mapLead'))}</p><div id="gourmet-map" class="gourmetmap" role="application" aria-label="${h(tr('mapHeading'))}"></div><p class="mapattr">© <a href="https://www.openmaptiles.org/" target="_blank" rel="noopener">OpenMapTiles</a> © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors</p></section>`;
+    return `<section class="section container mapsection"><div class="sectiontitle"><div><span class="kicker">TENDO GOURMET MAP</span><h2>${h(tr('mapHeading'))}</h2></div><p class="caption">${pins.length} ${h(tr('items'))}</p></div><p class="maplead">${h(tr('mapLead'))}</p><div id="gourmet-map" class="gourmetmap" role="application" aria-label="${h(tr('mapHeading'))}"></div></section>`;
   }
   function loadLeaflet(){
     return new Promise((resolve,reject)=>{

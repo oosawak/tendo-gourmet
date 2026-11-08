@@ -60,7 +60,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Tendo's Eatery \"Kirikiri\" — Tendon with Large Kakiage",
+          "category": "Japanese",
+          "summary": "A soba restaurant in Takadama, Tendo City, reopened as an eatery. Its kakiage tendon, braised pork belly, and homemade pudding are highly acclaimed.",
+          "cover_alt": "A watercolor-style illustration of a large kakiage tendon"
+        }
       },
       "embed_url": "https://www.threads.com/@mii.yamagata25/post/DVlFtL8kqO7",
       "embed_platform": "threads",
@@ -89,7 +94,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Tendo \"Chuka Bishokuya Tendo Branch\" — Malatang, With Broth and Without",
+          "category": "Chinese",
+          "summary": "A Chinese restaurant in Tendo City has newly started serving malatang: a soupy malatang and a dry malaban are introduced.",
+          "cover_alt": "Watercolor-style illustration of malatang"
+        }
       },
       "embed_url": "https://www.instagram.com/reel/DeRNV-oT2SA/",
       "embed_platform": "instagram",

@@ -12,5 +12,22 @@
       "source_hash": "7fd6db3045adeb802a3ed486300561f932dcf09ac2519c5caee40ffcbc38ebac"
     }
   },
-  "posts": {}
+  "posts": {
+    "tendo:chuka-bishokuya-tendo-malatang": {
+      "title": "Tendo \"Chuka Bishokuya Tendo Branch\" — Malatang, With Broth and Without",
+      "category": "Chinese",
+      "summary": "A Chinese restaurant in Tendo City has newly started serving malatang: a soupy malatang and a dry malaban are introduced.",
+      "cover_alt": "Watercolor-style illustration of malatang",
+      "markdown": "At \"Chuka Bishokuya Tendo Branch\" in Tendo City, a new menu item, malatang, has been introduced.\n\nAccording to an Instagram post (@odekake.spot.tohoku, marked as PR), there are two kinds: a soupy \"Pork Malatang\" and a dry \"Beef Malaban.\" At lunch, there is also a service where counter dishes such as salad, karaage, and almond jelly are free with orders of 800 yen (tax included) or more per person (please check with the shop for details and conditions).\n\n## Shop Information (from the post)\n\n- Shop Name: Chuka Bishokuya Tendo Branch\n- Location: 山形県天童市糠塚1-6-26\n- Specialties: Malatang (malatang with broth / dry malaban)\n\n## Source\n\n- Instagram Reel (@odekake.spot.tohoku): https://www.instagram.com/reel/DeRNV-oT2SA/\n- Business hours, services, and other details may change. Please check with the shop for the latest information.",
+      "source_hash": "d8dfda89b3ed0875a01c60a51ae02904ba627747f2f87f0bb77d328a5e86a987"
+    },
+    "tendo:kirikiri-tendo": {
+      "title": "Tendo's Eatery \"Kirikiri\" — Tendon with Large Kakiage",
+      "category": "Japanese",
+      "summary": "A soba restaurant in Takadama, Tendo City, reopened as an eatery. Its kakiage tendon, braised pork belly, and homemade pudding are highly acclaimed.",
+      "cover_alt": "A watercolor-style illustration of a large kakiage tendon",
+      "markdown": "The soba restaurant \"Kirikiri\" in Takadama, Tendo City, has reopened as an eatery.\n\nAccording to a Threads post, the tendon topped with a large kakiage is crispy and filling. The melt-in-your-mouth braised pork belly (a la carte) and the brown sugar pudding (with homemade coffee caramel sauce) were also delicious. A place worth considering if you are undecided on where to have lunch in Tendo.\n\n## Shop Information (from the post)\n\n- Shop Name: Kirikiri\n- Location: 山形県天童市高擶北137-4\n- Business Hours: 11:00–14:30 (last order)\n- Specialties: Kakiage tendon, braised pork belly, brown sugar pudding\n\n## Source\n\n- Threads post (@mii.yamagata25): https://www.threads.com/@mii.yamagata25/post/DVlFtL8kqO7\n- Business hours, closing days, and other details may change. Please check with the shop for the latest information.\n",
+      "source_hash": "001b3ba7a2639521921256a169f78f05971f17e9933f9c48829717e0e7f1b976"
+    }
+  }
 }

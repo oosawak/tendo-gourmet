@@ -1,0 +1,22 @@
+{
+  "site": "tendo",
+  "category_map": {
+    "中華": "Chinese",
+    "和食": "Japanese"
+  },
+  "note": "PLaMo 3 Translate 用の用語集。terms は全段落共通でモデルへ渡す。",
+  "terms": [
+    {
+      "source": "天童",
+      "target": "Tendo"
+    },
+    {
+      "source": "麻辣",
+      "target": "mala"
+    },
+    {
+      "source": "きりきり",
+      "target": "Kirikiri"
+    }
+  ]
+}
